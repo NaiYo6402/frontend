@@ -1,0 +1,390 @@
+[
+    {
+        "embassy" : "สอท. ณ กรุงอาบูจา(ABJ)" ,
+        "abbreviation" :"ABJ"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงอาบูดาบี(ABU)" ,
+        "abbreviation" :"ABU"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงอัมมาน(AMM)" ,
+        "abbreviation" :"AMM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงอังการา(ANK)" ,
+        "abbreviation" :"ANK"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเอเธนส์(ATH)" ,
+        "abbreviation" :"ATH"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเบิรน์(BEN)" ,
+        "abbreviation" :"BEN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเบอร์ลิน(BLN)" ,
+        "abbreviation" :"BLN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงบราซิเลีย(BRA)" ,
+        "abbreviation" :"BRA"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงบรัสเซลส์(BRS)" ,
+        "abbreviation" :"BRS"
+    },
+    {
+        "embassy" : "สอท. กรุงบัวเอโนสไอเรส(BUA)" ,
+        "abbreviation" :"BUA"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงบูดาเปสต์(BUD)" ,
+        "abbreviation" :"BUD"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงบูคาเรสต์(BUH)" ,
+        "abbreviation" :"BUH"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงบันดาเสรีเบกาวัน(BWN)" ,
+        "abbreviation" :"BWN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงไคโร(CAI)" ,
+        "abbreviation" :"CAI"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงแคนเบอร์รา(CAN)" ,
+        "abbreviation" :"CAN"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองกัลกัตตา(CCU)" ,
+        "abbreviation" :"CCU"
+    },
+    {
+        "embassy" : "สกญ. ณ นครชิคาโก(CHI)" ,
+        "abbreviation" :"CHI"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงโคลัมโบ(CMB)" ,
+        "abbreviation" :"CMB"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองเจนไน(CNN)" ,
+        "abbreviation" :"CNN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงโคเปนเฮเกน(CPH)" ,
+        "abbreviation" :"CPH"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองเฉิงตู(CTU)" ,
+        "abbreviation" :"CTU"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงธากา(DAC)" ,
+        "abbreviation" :"DAC"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงดาการ์(DAR)" ,
+        "abbreviation" :"DAR"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงนิวเดลี(DEL)" ,
+        "abbreviation" :"DEL"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงดิลี(DLI)" ,
+        "abbreviation" :"DLI"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงโดฮา(DOH)" ,
+        "abbreviation" :"DOH"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองดูไบ(DXB)" ,
+        "abbreviation" :"DXB"
+    },
+    {
+        "embassy" : "สกญ. ณ นครแฟรงก์เฟิร์ต(FRA)" ,
+        "abbreviation" :"FRA"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองฟูกูโอกะ(FUK)" ,
+        "abbreviation" :"FUK"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองกว่างโจว(GUG)" ,
+        "abbreviation" :"GUG"
+    },
+    {
+        "embassy" : "คผถ. ณ นครเจนีวา(GVA)" ,
+        "abbreviation" :"GVA"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเฮก(HAG)" ,
+        "abbreviation" :"HAG"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงฮานอย(HAN)" ,
+        "abbreviation" :"HAN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเฮลชิงกิ(HEL)" ,
+        "abbreviation" :"HEL"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองฮ่องกง(HKG)" ,
+        "abbreviation" :"HKG"
+    },
+    {
+        "embassy" : "สกญ. ณ นครโฮจิมินห์(HOM)" ,
+        "abbreviation" :"HOM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงอิสลามาบัด(ISB)" ,
+        "abbreviation" :"ISB"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองเจดดาห์(JED)" ,
+        "abbreviation" :"JED"
+    },
+    {
+        "embassy" : "คผถ. ณ กรุงจาการ์ตา(JKM)" ,
+        "abbreviation" :"JKM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงจาการ์ตา(JKT)" ,
+        "abbreviation" :"JKT"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองการาจี(KHI)" ,
+        "abbreviation" :"KHI"
+    },
+    {
+        "embassy" : "สกญ. ณ นครคุนหมิง(KMG)" ,
+        "abbreviation" :"KMG"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองโกตาบารู(KOB)" ,
+        "abbreviation" :"KOB"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงกาฐมาณฑุ(KTM)" ,
+        "abbreviation" :"KTM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงกัวลาลัมเปอร์(KUL)" ,
+        "abbreviation" :"KUL"
+    },
+    {
+        "embassy" : "สอท. ณ คูเวต(KWI)" ,
+        "abbreviation" :"KWI"
+    },
+    {
+        "embassy" : "สกญ. ณ นครลอสแอนเจลิส(LAX)" ,
+        "abbreviation" :"LAX"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงลิสบอน(LIB)" ,
+        "abbreviation" :"LIB"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงลิมา(LIM)" ,
+        "abbreviation" :"LIM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงลอนดอน(LON)" ,
+        "abbreviation" :"LON"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมาดริด(MAD)" ,
+        "abbreviation" :"MAD"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเม็กซิโก(MEX)" ,
+        "abbreviation" :"MEX"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมะนิลา(MNL)" ,
+        "abbreviation" :"MNL"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมานามา(MNM)" ,
+        "abbreviation" :"MNM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมอสโก(MOW)" ,
+        "abbreviation" :"MOW"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมาปูโต(MPM)" ,
+        "abbreviation" :"MPM"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองมุมไบ(MUB)" ,
+        "abbreviation" :"MUB"
+    },
+    {
+        "embassy" : "สกญ. ณ นครมิวนิว(MUC)" ,
+        "abbreviation" :"MUC"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงมัสกัต(MUS)" ,
+        "abbreviation" :"MUS"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงไนโรบี(NIB)" ,
+        "abbreviation" :"NIB"
+    },
+    {
+        "embassy" : "สกญ. ณ นครหนานหนิง(NNG)" ,
+        "abbreviation" :"NNG"
+    },
+    {
+        "embassy" : "สกญ. ณ นครนิวยอร์ก(NYC)" ,
+        "abbreviation" :"NYC"
+    },
+    {
+        "embassy" : "คผถ. ณ นครนิวยอร์ก(NYM)" ,
+        "abbreviation" :"NYM"
+    },
+    {
+        "embassy" : "สกญ. ณ นครโอซากา(OSA)" ,
+        "abbreviation" :"OSA"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงออสโล(OSL)" ,
+        "abbreviation" :"OSL"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงออตาวา(OTT)" ,
+        "abbreviation" :"OTT"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงปารีส(PAR)" ,
+        "abbreviation" :"PAR"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงปักกิ่ง(PEK)" ,
+        "abbreviation" :"PEK"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองปีนัง(PEN)" ,
+        "abbreviation" :"PEN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงพนมเปญ(PNH)" ,
+        "abbreviation" :"PNH"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงพริทรอเรีย(PRE)" ,
+        "abbreviation" :"PRE"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงปราก(PRG)" ,
+        "abbreviation" :"PRG"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงราบัต(RAB)" ,
+        "abbreviation" :"RAB"
+    },
+    {
+        "embassy" : "สอท. กรุงโรม(ROM)" ,
+        "abbreviation" :"ROM"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงริยาด(RUH)" ,
+        "abbreviation" :"RUH"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงซันติอาโก(SAN)" ,
+        "abbreviation" :"SAN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงโซล(SEL)" ,
+        "abbreviation" :"SEL"
+    },
+    {
+        "embassy" : "สกญ. ณ นครเซี่ยงไฮ้(SGH)" ,
+        "abbreviation" :"SGH"
+    },
+    {
+        "embassy" : "สอท. ณ สิงคโปร์(SIN)" ,
+        "abbreviation" :"SIN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงสตอกโฮล์ม(STO)" ,
+        "abbreviation" :"STO"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองสะหวันนะเขต(SVK)" ,
+        "abbreviation" :"SVK"
+    },
+    {
+        "embassy" : "สกญ. ณ นครซิดนีย์(SYD)" ,
+        "abbreviation" :"SYD"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองชิงเต่า(TAO)" ,
+        "abbreviation" :"TAO"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเทลอาวีฟ(TAV)" ,
+        "abbreviation" :"TAV"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเตหะราน(THR)" ,
+        "abbreviation" :"THR"
+    },
+    {
+        "embassy" : "สนง.เศรษฐกิจการค้าฯ ณ กรุงไทเป(TPE)" ,
+        "abbreviation" :"TPE"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงนูซูลตัน(TSE)" ,
+        "abbreviation" :"TSE"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงโตเกียว(TYO)" ,
+        "abbreviation" :"TYO"
+    },
+    {
+        "embassy" : "สกญ. ณ นครแวนคูเวอร์(VAN)" ,
+        "abbreviation" :"VAN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเวียนา(VIE)" ,
+        "abbreviation" :"VIE"
+    },
+    {
+        "embassy" : "สอท. ณ เวียงจันทน์(VTE)" ,
+        "abbreviation" :"VTE"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงวอร์ซอ(WAW)" ,
+        "abbreviation" :"WAW"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงวอชิงตัน(WAS)" ,
+        "abbreviation" :"WAS"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงเวลลิงตัน(WLT)" ,
+        "abbreviation" :"WLT"
+    },
+    {
+        "embassy" : "สกญ. ณ นครซีอาน(XIY)" ,
+        "abbreviation" :"XIY"
+    },
+    {
+        "embassy" : "สกญ. ณ เมืองเซี่ยเหมิน(XMN)" ,
+        "abbreviation" :"XMN"
+    },
+    {
+        "embassy" : "สอท. ณ กรุงย่างกุ้ง(YGN)" ,
+        "abbreviation" :"YGN"
+    }
+]
